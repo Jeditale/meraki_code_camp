@@ -1,0 +1,38 @@
+h1
+{
+    text-align: center;
+    
+}
+body
+{
+background-color: rgb(61, 232, 143);
+}
+
+.center
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 500px
+}
+.flex-container
+{
+display: flex;
+margin-top: 50px;
+}
+
+.flex-child 
+{
+flex: 1;
+border: 2px solid blue;
+}  
+
+.flex-child:first-child 
+{
+margin-right: 100px;
+} 
+
+#ppap
+{
+    text-align: right;
+}
