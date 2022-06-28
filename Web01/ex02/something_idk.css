@@ -3,30 +3,3 @@ body
 background-color: lightblue;
 }
 
-#Header
-{
-    text-align: center;
-    
-}
-.Image
-{
-    display: block;
-    -webkit-border-radius: 1em;
-    margin-left: auto;
-    margin-right: auto;
-    height: 300px;
-    width: 300px
-}
-.flex-container
-{
-display: flex;
-margin-top: 50px;
-}
-
-.flex-child 
-{
-flex: 0;
-border: 3px solid blue;
--webkit-border-radius: 1em;
-}  
-
